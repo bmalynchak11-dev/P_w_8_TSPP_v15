@@ -1,10 +1,22 @@
 {
-  "name": "",
-  "goal": "",
-  "source": "",
-  "tool_name": "",
-  "tool_plan": "",
-  "roles": [],
-  "vocabulary": [],
-  "privacy": {"personal_data_sent": false, "secrets_sent": false, "settings_checked": false}
+  "name": "FinTrecker App",
+  "goal": "Мобільний застосунок для персонального обліку доходів, витрат та фінансової аналітики.",
+  "source": "власний проєкт",
+  "tool_name": "GitHub Copilot",
+  "tool_plan": "студентський пакет",
+  "roles": [
+    "Користувач",
+    "Аналітик"
+  ],
+  "vocabulary": [
+    "транзакція",
+    "категорія",
+    "бюджет",
+    "валюта"
+  ],
+  "privacy": {
+    "personal_data_sent": false,
+    "secrets_sent": false,
+    "settings_checked": true
+  }
 }
